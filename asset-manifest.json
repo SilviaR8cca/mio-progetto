@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mio-progetto/static/css/main.cead0225.css",
+    "main.js": "/mio-progetto/static/js/main.4e9be551.js",
+    "index.html": "/mio-progetto/index.html",
+    "main.cead0225.css.map": "/mio-progetto/static/css/main.cead0225.css.map",
+    "main.4e9be551.js.map": "/mio-progetto/static/js/main.4e9be551.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cead0225.css",
+    "static/js/main.4e9be551.js"
+  ]
+}
