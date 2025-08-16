@@ -66,12 +66,12 @@
 }
 
 .bar.html::after{
-    width: 95%;
+    width: 100%;
     background-color: #e44d26;
 }
 
 .bar.css::after{
-    width: 85%;
+    width: 100%;
     background-color: #264de4;
 }
 
